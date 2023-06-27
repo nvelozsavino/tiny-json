@@ -1,0 +1,8 @@
+
+  
+config TINY_JSON
+	bool "Enable TINY_JSON"
+    default n
+	help
+	  Enable compilation of tiny-json library
+
